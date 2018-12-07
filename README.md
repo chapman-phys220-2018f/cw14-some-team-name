@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 14
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jacob Anabi, Gage Kizzar**
 
 ## Specification
 
@@ -19,7 +19,7 @@ In this supplemental classwork, you will explore the differences between ```pyth
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+**Was a helpful intrduction to MATLAB.**
 
 ## Honor Pledge
 
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Jacob Anabi, Gage Kizzar**
