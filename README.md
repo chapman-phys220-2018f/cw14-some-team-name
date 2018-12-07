@@ -19,7 +19,7 @@ In this supplemental classwork, you will explore the differences between ```pyth
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**Was a helpful intrduction to MATLAB.**
+**Was a helpful introduction to MATLAB.**
 
 ## Honor Pledge
 
